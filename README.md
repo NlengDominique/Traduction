@@ -4,12 +4,14 @@ Ce projet vise à internationaliser un site web en utilisant le langage de progr
 
 ## Fonctionnalités
 
--**Traduction de texte en plusieurs langues (anglais, français, allemand, etc.)**-
--**Possibilité de sélectionner la langue préférée par l'utilisateur**-
+-Traduction de texte en plusieurs langues (anglais, français, allemand, etc.)
+
+-Possibilité de sélectionner la langue préférée par l'utilisateur
 
 ## Fichiers et dossiers
 
 -**langage.php**-: fichier de traduction pour stocker les textes traduits
+
 -**index.php**- : fichier principal du site web qui utilise les traductions
 
 ## Licence
